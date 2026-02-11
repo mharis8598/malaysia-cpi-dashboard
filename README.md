@@ -27,4 +27,4 @@ Python, pandas, Streamlit, matplotlib, seaborn
 3. Run: `streamlit run src/app.py`
 
 ## Screenshots
-*(To be added)*
+![Dashboard](outputs/dashboard_screenshot.png)
