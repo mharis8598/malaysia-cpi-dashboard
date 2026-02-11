@@ -1,0 +1,9 @@
+data/*.csv
+data/*.parquet
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.DS_Store
+Thumbs.db
+.env
